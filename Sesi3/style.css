@@ -1,0 +1,14 @@
+/* Selector Element H1 */
+h1 {
+    color: blue;
+}
+
+/* Selector ID judul*/
+#judul {
+    font-style: italic;
+}
+
+/* Selector class background-biru */
+.background-biru {
+    background-color: yellow;
+}
