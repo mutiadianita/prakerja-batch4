@@ -1,0 +1,10 @@
+create folder project
+create repository in github.com
+open terminal di vscode, ketikkan command berikut:
+git init
+git add .
+git commit -m "first commit"
+git branch -M main
+
+git remote add origin https://github.com/mutiadianita/prakerja.git
+git push -u origin main
